@@ -60,13 +60,4 @@ img {
     text-align: center;
 }
 
-ul {
-display: grid;
-grid-template-columns: auto auto auto;
-grid-template-rows: 5px;
-}
-li {
-display: grid;
-justify-content: center;
-align-items: center;
-}
+
